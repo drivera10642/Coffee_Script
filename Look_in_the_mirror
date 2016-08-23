@@ -1,0 +1,6 @@
+speed 5
+dot gold, 200
+moveto -41, 21; dot black, 30 
+moveto 43, 21; dot green, 30
+moveto -35, -45; rt 120
+pen purple, 10; lt 30, 150
