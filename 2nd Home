@@ -1,0 +1,16 @@
+speed 5
+pen black, 10
+rt 90
+fd 60
+lt 90
+fd 45
+rt 90
+fd 25
+lt 120
+fd 120
+lt 120
+fd 120 
+lt 120
+fd 25
+rt 90
+fd 45
