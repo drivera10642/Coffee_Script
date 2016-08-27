@@ -1,0 +1,112 @@
+speed 40
+moveto -250, 170
+rt 90
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+dot 10; fd 15
+dot 10; pen "clear", 0
+fd 40; dot 10
+fd 15; pen black, 10
+fd 10; pen "clear", 0
+fd 40; pen black, 10
+fd 10; pen "clear", 0
+fd 15; dot 10
+fd 40; dot 10
+fd 15; dot 10
+fd 40; dot 10
+fd 40; dot 10
+fd 15; pen black, 10
+fd 10; pen "clear", 0
+fd 15; dot 10
+fd 15; dot 10
+moveto -250, 140
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear", 0
+fd 15; dot 10
+fd 40; dot 10
+fd 15; dot 10
+fd 40; dot 10
+fd 15; dot 10
+fd 15; dot 10
+fd 15
+pen black, 10
+fd 10
+pen "clear", 0; fd 40
+dot 10; fd 40
+dot 10; fd 15 
+pen black, 10
+fd 10
+pen "clear", 0; fd 15
+dot 10; fd 40
+dot 10; fd 15
+pen black, 10
+fd 10
+pen "clear", 0
+moveto -250, 110
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+dot 10; fd 40
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+dot 10; fd 15
+dot 10; fd 40
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear",0; fd 40
+dot 10; fd 15
+dot 10; fd 15
+dot 10; fd 15
+fd 40
+dot 10; fd 15
+dot 10; fd 15
+dot 10; fd 15
+moveto -250, 85
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 40
+dot 10; fd 15
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+dot 10; fd 40
+moveto -250, 66
+dot 10; fd 15
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 40
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 40
+dot 10; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 10
+pen "clear", 0; fd 15
+pen black, 10; fd 15
+pen "clear", 0; fd 40
+dot 10; fd 15
+dot 10; fd 15
+dot 10; fd 15
+dot 10; fd 15
+dot 10; fd 15
