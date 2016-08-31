@@ -1,0 +1,47 @@
+speed 5
+moveto -302, 295
+pen 10
+moveto 100, 295
+moveto 100, -70
+pen "clear", 0
+moveto 100, -100
+pen 10
+moveto -302, -100
+moveto -302, 270
+moveto -276, 270
+moveto -276, -97
+pen "clear", 0
+moveto -243, -70
+pen 10; moveto 100, -70
+moveto -243, -70
+pen "clear", 0
+moveto -243, 270
+pen 10
+moveto -243, -70
+pen "clear", 0
+moveto -243, 270
+pen 10
+moveto 63, 270
+moveto 63, 190
+moveto -180, 190
+fd 20
+rt 90; fd 100
+lt 90; fd 30
+lt 90; fd 130
+lt 90; fd 80
+lt 90; fd 280
+rt 90; fd 200
+rt 90; fd 200
+rt 90; fd 70
+rt 90; fd 150
+lt 90; fd 80
+lt 90; fd 200
+lt 90; fd 180
+pen "clear", 0
+moveto -329, 283
+lt 90
+moveto -260, 283
+rt 90
+moveto -260, -80
+lt 90
+moveto 250, -80
